@@ -1,0 +1,4 @@
+[submodule "ABC-Strategie-GitHub/abc_contabilita_italiana"]
+	path = ABC-Strategie-GitHub/abc_contabilita_italiana
+	url = git@github.com:ABC-Strategie-GitHub/abc_contabilita_italiana.git
+	branch = main
