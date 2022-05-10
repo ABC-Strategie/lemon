@@ -7,3 +7,8 @@
 	path = ABC-Strategie-GitHub/abc_afe
 	url = git@github.com:ABC-Strategie-GitHub/abc_afe.git
 	branch = main
+
+[submodule "ABC-Strategie-GitHub/abc_x_lemon"]
+	path = ABC-Strategie-GitHub/abc_x_lemon
+	url = git@github.com:ABC-Strategie-GitHub/abc_x_lemon.git
+	branch = main
