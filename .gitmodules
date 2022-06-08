@@ -1,8 +1,3 @@
-[submodule "ABC-Strategie-GitHub/abc_contabilita_italiana"]
-	path = ABC-Strategie-GitHub/abc_contabilita_italiana
-	url = git@github.com:ABC-Strategie-GitHub/abc_contabilita_italiana.git
-	branch = main
-
 [submodule "ABC-Strategie-GitHub/abc_afe"]
 	path = ABC-Strategie-GitHub/abc_afe
 	url = git@github.com:ABC-Strategie-GitHub/abc_afe.git
@@ -12,3 +7,9 @@
 	path = ABC-Strategie-GitHub/abc_x_lemon
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_lemon.git
 	branch = main
+[submodule "ABC-Strategie-GitHub/abc_base_l10n-italy"]
+	path = ABC-Strategie-GitHub/abc_base_l10n-italy
+	url = git@github.com:ABC-Strategie-GitHub/abc_base_l10n-italy.git
+[submodule "ABC-Strategie-GitHub/l10n-italy"]
+	path = ABC-Strategie-GitHub/l10n-italy
+	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
