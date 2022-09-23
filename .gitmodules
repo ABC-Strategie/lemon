@@ -13,3 +13,6 @@
 [submodule "ABC-Strategie-GitHub/l10n-italy"]
 	path = ABC-Strategie-GitHub/l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
+[submodule "ABC-Strategie-GitHub/abc_sconto_in_fattura"]
+	path = ABC-Strategie-GitHub/abc_sconto_in_fattura
+	url = git@github.com:ABC-Strategie-GitHub/abc_sconto_in_fattura.git
