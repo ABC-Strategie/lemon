@@ -6,7 +6,7 @@
 [submodule "ABC-Strategie-GitHub/abc_x_lemon"]
 	path = ABC-Strategie-GitHub/abc_x_lemon
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_lemon.git
-	branch = main
+	branch = 14.0
 [submodule "ABC-Strategie-GitHub/abc_base_l10n-italy"]
 	path = ABC-Strategie-GitHub/abc_base_l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/abc_base_l10n-italy.git
