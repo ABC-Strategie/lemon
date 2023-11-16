@@ -26,3 +26,8 @@
 	path = OCA/connector
 	url = git@github.com:OCA/connector.git
 	branch = 14.0
+
+[submodule "OCA/server-auth"]
+	path = OCA/server-auth
+	url = git@github.com:OCA/server-auth.git
+	branch = 14.0
