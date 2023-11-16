@@ -21,3 +21,8 @@
 	path = ABC-Strategie-GitHub/extra_l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/extra_l10n-italy.git
 	branch = 14.0
+
+[submodule "OCA/connector"]
+	path = OCA/connector
+	url = git@github.com:OCA/connector.git
+	branch = 14.0
