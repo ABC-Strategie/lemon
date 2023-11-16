@@ -36,3 +36,8 @@
 	path = OCA/rest-framework
 	url = git@github.com:OCA/rest-framework.git
 	branch = 14.0
+
+[submodule "ABC-Strategie-GitHub/abc_basic_auth_rest"]
+	path = ABC-Strategie-GitHub/abc_basic_auth_rest
+	url = git@github.com:ABC-Strategie-GitHub/abc_basic_auth_rest.git
+	branch = main
