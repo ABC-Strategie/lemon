@@ -47,4 +47,4 @@
 [submodule "ABC-Strategie-GitHub/abc_presenze"]
 	path = ABC-Strategie-GitHub/abc_presenze
 	url = git@github.com:ABC-Strategie-GitHub/abc_presenze.git
-	branch = main
+	branch = 16.0-mig
