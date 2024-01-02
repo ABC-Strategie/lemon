@@ -48,3 +48,8 @@
 	path = ABC-Strategie-GitHub/abc_presenze
 	url = git@github.com:ABC-Strategie-GitHub/abc_presenze.git
 	branch = 16.0-mig
+
+[submodule "ABC-Strategie/OM_utils"]
+	path = ABC-Strategie/OM_utils
+	url = git@github.com:ABC-Strategie/OM_utils.git
+	branch = 16.0
