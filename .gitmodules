@@ -42,7 +42,7 @@
 [submodule "ABC-Strategie-GitHub/abc_rest_dispositivi_client"]
 	path = ABC-Strategie-GitHub/abc_rest_dispositivi_client
 	url = git@github.com:ABC-Strategie-GitHub/abc_rest_dispositivi_client.git
-	branch = main
+	branch = 16.0
 
 [submodule "ABC-Strategie-GitHub/abc_presenze"]
 	path = ABC-Strategie-GitHub/abc_presenze
