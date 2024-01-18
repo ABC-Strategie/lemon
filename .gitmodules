@@ -37,7 +37,7 @@
 [submodule "ABC-Strategie-GitHub/abc_basic_auth_rest"]
 	path = ABC-Strategie-GitHub/abc_basic_auth_rest
 	url = git@github.com:ABC-Strategie-GitHub/abc_basic_auth_rest.git
-	branch = main
+	branch = 16.0
 
 [submodule "ABC-Strategie-GitHub/abc_rest_dispositivi_client"]
 	path = ABC-Strategie-GitHub/abc_rest_dispositivi_client
