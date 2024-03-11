@@ -46,3 +46,8 @@
 	path = ABC-Strategie-GitHub/abc_presenze
 	url = git@github.com:ABC-Strategie-GitHub/abc_presenze.git
 	branch = main
+
+[submodule "ABC-Strategie/OM_sistemi_job_export"]
+	path = ABC-Strategie/OM_sistemi_job_export
+	url = git@github.com:ABC-Strategie/OM_sistemi_job_export.git
+	branch = 14.0
