@@ -2,9 +2,6 @@
 	path = ABC-Strategie-GitHub/abc_x_lemon
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_lemon.git
 	branch = 14.0
-[submodule "ABC-Strategie-GitHub/abc_base_l10n-italy"]
-	path = ABC-Strategie-GitHub/abc_base_l10n-italy
-	url = git@github.com:ABC-Strategie-GitHub/abc_base_l10n-italy.git
 [submodule "ABC-Strategie-GitHub/l10n-italy"]
 	path = ABC-Strategie-GitHub/l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
@@ -50,4 +47,8 @@
 [submodule "ABC-Strategie/OM_sistemi_job_export"]
 	path = ABC-Strategie/OM_sistemi_job_export
 	url = git@github.com:ABC-Strategie/OM_sistemi_job_export.git
+	branch = 14.0
+[submodule "ABC-Strategie-GitHub/OM_base_l10n-italy"]
+	path = ABC-Strategie-GitHub/OM_base_l10n-italy
+	url = git@github.com:ABC-Strategie/OM_base_l10n-italy.git
 	branch = 14.0
