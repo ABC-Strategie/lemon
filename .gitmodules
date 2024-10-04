@@ -51,3 +51,8 @@
 	path = ABC-Strategie/OM_sistemi_job_export
 	url = git@github.com:ABC-Strategie/OM_sistemi_job_export.git
 	branch = 14.0
+
+[submodule "OCA/account-closing"]
+	path = OCA/account-closing
+	url = git@github.com:OCA/account-closing.git
+	branch = 14.0
