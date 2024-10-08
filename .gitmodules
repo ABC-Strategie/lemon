@@ -1,53 +1,56 @@
 [submodule "ABC-Strategie-GitHub/abc_x_lemon"]
 	path = ABC-Strategie-GitHub/abc_x_lemon
 	url = git@github.com:ABC-Strategie-GitHub/abc_x_lemon.git
-	branch = 14.0
+	branch = 16.0-mig
 [submodule "ABC-Strategie-GitHub/abc_base_l10n-italy"]
 	path = ABC-Strategie-GitHub/abc_base_l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/abc_base_l10n-italy.git
+	branch = 16.0
 [submodule "ABC-Strategie-GitHub/l10n-italy"]
 	path = ABC-Strategie-GitHub/l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/l10n-italy.git
+	branch = 16.0
 [submodule "ABC-Strategie-GitHub/abc_sconto_in_fattura"]
 	path = ABC-Strategie-GitHub/abc_sconto_in_fattura
 	url = git@github.com:ABC-Strategie-GitHub/abc_sconto_in_fattura.git
+	branch = 16.0-mig
 
 [submodule "ABC-Strategie-GitHub/extra_l10n-italy"]
 	path = ABC-Strategie-GitHub/extra_l10n-italy
 	url = git@github.com:ABC-Strategie-GitHub/extra_l10n-italy.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/connector"]
 	path = OCA/connector
 	url = git@github.com:OCA/connector.git
-	branch = 14.0
-
-[submodule "OCA/server-auth"]
-	path = OCA/server-auth
-	url = git@github.com:OCA/server-auth.git
-	branch = 14.0
+	branch = 16.0
 
 [submodule "OCA/rest-framework"]
-	path = OCA/rest-framework
-	url = git@github.com:OCA/rest-framework.git
-	branch = 14.0
+        path = OCA/rest-framework
+        url = git@github.com:OCA/rest-framework.git
+	branch = 16.0
+
+[submodule "OCA/server-auth"]
+        path = OCA/server-auth
+        url = git@github.com:OCA/server-auth.git
+        branch = 16.0
 
 [submodule "ABC-Strategie-GitHub/abc_basic_auth_rest"]
 	path = ABC-Strategie-GitHub/abc_basic_auth_rest
 	url = git@github.com:ABC-Strategie-GitHub/abc_basic_auth_rest.git
-	branch = main
+	branch = 16.0
 
 [submodule "ABC-Strategie-GitHub/abc_rest_dispositivi_client"]
 	path = ABC-Strategie-GitHub/abc_rest_dispositivi_client
 	url = git@github.com:ABC-Strategie-GitHub/abc_rest_dispositivi_client.git
-	branch = main
+	branch = 16.0
 
 [submodule "ABC-Strategie-GitHub/abc_presenze"]
 	path = ABC-Strategie-GitHub/abc_presenze
 	url = git@github.com:ABC-Strategie-GitHub/abc_presenze.git
-	branch = main
+	branch = 16.0-mig
 
 [submodule "ABC-Strategie/OM_sistemi_job_export"]
 	path = ABC-Strategie/OM_sistemi_job_export
 	url = git@github.com:ABC-Strategie/OM_sistemi_job_export.git
-	branch = 14.0
+	branch = 16.0-mig
