@@ -47,19 +47,18 @@
 	path = ABC-Strategie-GitHub/abc_basic_auth_rest
 	url = git@github.com:ABC-Strategie-GitHub/abc_basic_auth_rest.git
 	#branch = 16.0
-	branch = 14.0
+	branch = main 
 
 [submodule "ABC-Strategie-GitHub/abc_rest_dispositivi_client"]
 	path = ABC-Strategie-GitHub/abc_rest_dispositivi_client
 	url = git@github.com:ABC-Strategie-GitHub/abc_rest_dispositivi_client.git
 	#branch = 16.0
-	branch = 14.0
-
+	branch = main
 [submodule "ABC-Strategie-GitHub/abc_presenze"]
 	path = ABC-Strategie-GitHub/abc_presenze
 	url = git@github.com:ABC-Strategie-GitHub/abc_presenze.git
 	#branch = 16.0-mig
-	branch = 14.0
+	branch = main
 
 [submodule "ABC-Strategie/OM_sistemi_job_export"]
 	path = ABC-Strategie/OM_sistemi_job_export
