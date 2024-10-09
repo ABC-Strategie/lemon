@@ -54,3 +54,7 @@
 	path = ABC-Strategie/OM_sistemi_job_export
 	url = git@github.com:ABC-Strategie/OM_sistemi_job_export.git
 	branch = 16.0-mig
+[submodule "OM_utils"]
+	path = OM_utils
+	url = git@github.com:ABC-Strategie/OM_utils.git
+	branch = 16.0
