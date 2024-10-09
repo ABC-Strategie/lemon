@@ -17,7 +17,7 @@
 	path = ABC-Strategie-GitHub/abc_sconto_in_fattura
 	url = git@github.com:ABC-Strategie-GitHub/abc_sconto_in_fattura.git
 	#branch = 16.0-mig
-	branch = 14.0
+	branch = main
 
 [submodule "ABC-Strategie-GitHub/extra_l10n-italy"]
 	path = ABC-Strategie-GitHub/extra_l10n-italy
