@@ -58,3 +58,8 @@
 #	path = OM_utils
 #	url = git@github.com:ABC-Strategie/OM_utils.git
 #	branch = 16.0
+
+[submodule "ABC-Strategie/OM_utils"]
+	path = ABC-Strategie/OM_utils
+	url = git@github.com:ABC-Strategie/OM_utils.git
+	branch = 16.0
