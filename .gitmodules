@@ -63,3 +63,8 @@
 	path = ABC-Strategie/OM_utils
 	url = git@github.com:ABC-Strategie/OM_utils.git
 	branch = 16.0
+
+[submodule "ABC-Strategie/OM_payments_forecast"]
+	path = ABC-Strategie/OM_payments_forecast
+	url = git@github.com:ABC-Strategie/OM_payments_forecast.git
+	branch = 16.0
