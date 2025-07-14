@@ -68,3 +68,8 @@
 	path = ABC-Strategie/OM_payments_forecast
 	url = git@github.com:ABC-Strategie/OM_payments_forecast.git
 	branch = lemon-16.0
+
+[submodule "OCA/account-closing"]
+	path = OCA/account-closing
+	url = git@github.com:OCA/account-closing.git
+	branch = 16.0
