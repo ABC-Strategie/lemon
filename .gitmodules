@@ -4,7 +4,7 @@
 	branch = 16.0
 [submodule "ABC-Strategie-GitHub/abc_base_l10n-italy"]
 	path = ABC-Strategie-GitHub/abc_base_l10n-italy
-	url = git@github.com:ABC-Strategie-GitHub/abc_base_l10n-italy.git
+	url = git@github.com:ABC-Strategie-GitHub/OM_base_l10n-italy.git
 	branch = 16.0
 [submodule "ABC-Strategie-GitHub/l10n-italy"]
 	path = ABC-Strategie-GitHub/l10n-italy
