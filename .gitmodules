@@ -25,16 +25,6 @@
 	url = git@github.com:OCA/connector.git
 	branch = 16.0
 
-[submodule "OCA/rest-framework"]
-        path = OCA/rest-framework
-        url = git@github.com:OCA/rest-framework.git
-	branch = 16.0
-
-[submodule "OCA/server-auth"]
-        path = OCA/server-auth
-        url = git@github.com:OCA/server-auth.git
-        branch = 16.0
-
 [submodule "ABC-Strategie-GitHub/abc_basic_auth_rest"]
 	path = ABC-Strategie-GitHub/abc_basic_auth_rest
 	url = git@github.com:ABC-Strategie-GitHub/abc_basic_auth_rest.git
