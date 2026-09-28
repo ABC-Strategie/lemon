@@ -63,3 +63,7 @@
       path = OCA/account-closing
       url = git@github.com:OCA/account-closing.git
       branch = 19.0
+[submodule "ABC-Strategie/OCA-only-field-for-missing-module"]
+	path = ABC-Strategie/OCA-only-field-for-missing-module
+	url = git@github.com:ABC-Strategie/oca-only-field-for-missing-module.git
+	branch = 19.0
