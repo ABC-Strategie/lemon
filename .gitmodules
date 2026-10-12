@@ -33,7 +33,7 @@
 [submodule "ABC-Strategie-GitHub/abc_rest_dispositivi_client"]
       path = ABC-Strategie-GitHub/abc_rest_dispositivi_client
       url = git@github.com:ABC-Strategie-GitHub/abc_rest_dispositivi_client.git
-      branch = 19.0
+      branch = ema_rest_dispositivi
 
 [submodule "ABC-Strategie-GitHub/abc_presenze"]
       path = ABC-Strategie-GitHub/abc_presenze
